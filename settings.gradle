@@ -1,0 +1,4 @@
+rootProject.name = "Test Module DFM"
+include ':app'
+include ':app:dynamicfeature'
+include ':app:testmodule'
